@@ -4,6 +4,7 @@
 <div align="center">
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
+
 ```math
 - 🔭 I’m currently working on stellar nucleosynthesis, cosmoloigcal evolution modeling and blah blah blah
 
@@ -11,7 +12,7 @@
 
 - 🤔 I’m looking for international research projects on Astrophysics and High Energy Physics
 
-- 👨‍💻 Languages and software known - python, c++, IDL/GDL, MATLAB, COMSOL, $`\LaTeX`$ and some other things(can't exactly remember)
+- 👨‍💻 Languages and software known - python, c++, IDL/GDL, MATLAB, COMSOL, LaTeX and some other things(can't exactly remember)
 
 - 💬 Ask me about comics, amateur astronomy, breaking bad and I don't know, whatever you like
 ```
