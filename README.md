@@ -4,6 +4,7 @@
 <div align="center">
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
+$`\sqrt{2}'$
 
 <br/>
 
@@ -20,7 +21,6 @@
 
 ```
 <br/>  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=centarsirius&show_icons=true&theme=nightowl&count_private=true" align="center" /></div>
 
   
