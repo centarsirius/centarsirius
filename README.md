@@ -1,9 +1,9 @@
-### <div align="center">The problem with being faster than light is that you can only live in darkness</div>
+### <div align="center">⚠️Caution : Entering certified NERD area⚠️</div>
+
+# <div align="center">The problem with being faster than light is that you can only live in darkness</div>
 <div align="center">
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
-  
-## <div align="center">⚠️Caution : Entering certified NERD area⚠️</div>
 
 - 🔭 I’m currently working on stellar nucleosynthesis, cosmoloigcal evolution modeling and blah blah blah
 
