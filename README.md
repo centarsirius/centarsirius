@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for international research projects on Astrophysics and High Energy Physics
 
-- 💬 Ask me about comics, astrophysics, breaking bad and I don't know, whatever you like
+- 💬 Ask me about comics, amateur astronomy, breaking bad and I don't know, whatever you like
   
 <br/>  
 
