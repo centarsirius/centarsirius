@@ -4,7 +4,9 @@
 <div align="center">
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
+
 <br/>
+
 ```math
 - 🔭 I’m currently working on stellar nucleosynthesis, cosmoloigcal evolution modeling and blah blah blah
 
