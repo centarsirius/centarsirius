@@ -4,7 +4,6 @@
 <div align="center">
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
-$`\sqrt{2}'$
 
 <br/>
 
@@ -18,7 +17,7 @@ $`\sqrt{2}'$
 - 👨‍💻 Languages and software known - python, c++, IDL/GDL, MATLAB, COMSOL, LaTeX among others(can't exactly remember)
 
 - 💬 Ask me about comics, amateur astronomy, breaking bad and I don't know, whatever you like
-
+\sqrt{2}
 ```
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=centarsirius&show_icons=true&theme=nightowl&count_private=true" align="center" /></div>
