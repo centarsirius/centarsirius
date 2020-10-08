@@ -3,11 +3,11 @@
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
   
-- 🔭 I’m currently working on stellar nucleosynthese, cosmoloigcal evolution modeling and blah blah
+- 🔭 I’m currently working on stellar nucleosynthesis, cosmoloigcal evolution modeling and blah blah blah
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning high energy processes in astrophysics and GW analysis
 
-- 🤔 I’m looking for help with internation research projects on Astrophysics and High Energy Physics
+- 🤔 I’m looking for international research projects on Astrophysics and High Energy Physics
 
 - 💬 Ask me about comics, astrophysics, breaking bad and I don't know, whatever you like
   
