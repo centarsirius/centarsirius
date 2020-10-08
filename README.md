@@ -3,7 +3,9 @@
 <img height="500" src = "https://github.com/centarsirius/centarsirius/blob/main/tenor.gif">
 </div>  
   
-## <div align="center">Caution : Entering certified NERD area</div>
+## <div align="center">⚠️
+Caution : Entering certified NERD area⚠️
+</div>
 
 - 🔭 I’m currently working on stellar nucleosynthesis, cosmoloigcal evolution modeling and blah blah blah
 
