@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for international research projects on Astrophysics and High Energy Physics
 
-- 👨‍💻 Languages and software known - python, c++, IDL/GDL, MATLAB, COMSOL, LaTeX among others(can't exactly remember)
+- 👨‍💻 Languages and software known - python, c++, IDL/GDL, MATLAB, COMSOL, LaTeX among others
 
 - 💬 Ask me about comics, amateur astronomy, breaking bad and I don't know, whatever you like
 ```
